@@ -1,0 +1,20 @@
+{
+  "name": "containership.plugin.enter",
+  "version": "0.1.0",
+  "description": "A CLI plugin used to enter ContainerShip containers",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ContainerShip Developers <developers@containership.io>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "containership.plugin": "^0.2.0",
+    "lodash": "^3.3.1",
+    "request": "^2.53.0"
+  },
+  "keywords": [
+    "containership",
+    "enter"
+  ]
+}

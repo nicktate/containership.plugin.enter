@@ -12,13 +12,13 @@ ContainerShip Developers - developers@containership.io
 ##Usage
 
 ###Install
-`containership plugin add ssh`
+`containership plugin add enter`
 
 ###Update
-`containership plugin update ssh`
+`containership plugin update enter`
 
 ###Remove
-`containership plugin remove ssh`
+`containership plugin remove enter`
 
 ##Contributing
 Pull requests and issues are encouraged!

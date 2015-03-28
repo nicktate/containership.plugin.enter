@@ -37,6 +37,10 @@ module.exports = new ContainershipPlugin({
                     position: 1,
                     help: "ContainerShip application name",
                     required: true
+                },
+                "container-id": {
+                    help: "Application container ID",
+                    required: true
                 }
             },
 

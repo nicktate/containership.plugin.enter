@@ -47,7 +47,7 @@ module.exports = new ContainershipPlugin({
             configure_options: {
                 "ssh-username": {
                     help: "username used to ssh into ContainerShip hosts",
-                    required: true
+                    required: false
                 }
             }
         }

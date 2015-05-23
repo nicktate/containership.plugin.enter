@@ -1,6 +1,6 @@
 {
   "name": "containership.plugin.enter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A CLI plugin used to enter ContainerShip containers",
   "main": "application.js",
   "scripts": {
